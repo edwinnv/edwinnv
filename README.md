@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnv&label=Profile%20views&color=0e75b6&style=flat" alt="edwinnv" /> </p>
 
 
-<p><img align="left" height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinnv&show_icons=true&locale=en&layout=compact&theme=dark" alt="edwinnv" /></p>
+<p><img align="left" height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinnv&show_icons=true&locale=en&layout=compact&theme=dark" alt="edwinnv" /></p>
 
 <p>&nbsp;<img align="start" width=400 src="https://github-readme-stats.vercel.app/api?username=edwinnv&show_icons=true&locale=es&theme=dark"  alt="edwinnv" /></p>
 
