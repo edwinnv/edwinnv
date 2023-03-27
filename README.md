@@ -1,27 +1,59 @@
-<h1 align="center">Hi 👋, I'm EdwinNv</h1>
-<h3 align="center">A passionate frontend developer from Colombia 🇨🇴</h3>
+# Hi there, I'm Edwin Nv 👋
+
+I'm a web developer who enjoys creating web applications and improving user experience. I'm passionate about programming and enjoy learning new technologies to improve my skills.
+
+## 💻 Technologies and Tools
+
+Here are some of the technologies and tools that I use:
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/edwinnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edwinnv" height="30" width="40" /></a>
-<a href="https://twitter.com/e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e" height="30" width="40" /></a>
-<a href="https://instagram.com/edwin_nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_nv" height="30" width="40" /></a>
-</p>
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Other Tools
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnv&label=Profile%20views&color=0e75b6&style=flat" alt="edwinnv" /> </p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 
+## 🌱 Currently Learning
 
-<!-- 
- <p><img align="left" height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinnv&show_icons=true&locale=en&layout=compact&theme=dark" alt="edwinnv" /></p>
+I'm always learning and expanding my skillset. Here are some of the things I'm currently focusing on:
 
-<p>&nbsp;<img align="start" width=400 src="https://github-readme-stats.vercel.app/api?username=edwinnv&show_icons=true&locale=es&theme=dark"  alt="edwinnv" /></p>
--->
+- Ruby on Rails
+- GraphQL
 
-<p><img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnv&theme=dark" alt="edwinnv" /></p>
+## 📈 GitHub Stats
 
+[![Edwin Nv's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinnv&show_icons=true&theme=radical)](https://github.com/edwinnv)
 
+## 📫 Contact Me
+
+Feel free to reach out to me through the following channels:
+
+- Email: edwinjunior2000@outlook.com
+- LinkedIn: https://www.linkedin.com/in/edwinnv/
+
+## 🚀 Let's build something amazing together!
+
+Thanks for checking out my profile! Let's connect and create something great. 🤝
