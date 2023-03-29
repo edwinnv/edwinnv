@@ -40,7 +40,7 @@ Here are some of the technologies and tools that I use:
 I'm always learning and expanding my skillset. Here are some of the things I'm currently focusing on:
 
 - Ruby on Rails
-- GraphQL
+- Node JS
 
 ## 📈 GitHub Stats
 
