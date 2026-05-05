@@ -1,58 +1,267 @@
-# Hi there, I'm Edwin Nv 👋
+<div align="center">
 
-I'm a web developer who enjoys creating web applications and improving user experience. I'm passionate about programming and enjoy learning new technologies to improve my skills.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Edwin%20Nv&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20JavaScript%20Ecosystem&descAlignY=55"/>
 
-## 💻 Technologies and Tools
+# 👨‍💻 Edwin Nv
 
-Here are some of the technologies and tools that I use:
+### Full Stack Developer • React • Next.js • Node.js
 
-### Front-end
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+modern+web+applications;Creating+clean+and+scalable+solutions;Full+Stack+JavaScript+Developer;Always+learning+new+technologies" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge)
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=edwinnv&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-### Back-end
+<img src="https://img.shields.io/github/followers/edwinnv?style=for-the-badge&color=1f6feb"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/github/stars/edwinnv?style=for-the-badge&color=f5b301"/>
 
+</div>
 
-### Other Tools
+---
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+# 🚀 About Me
 
-## 🌱 Currently Learning
+```ts id="8n7fj1"
+const edwin = {
+  role: "Full Stack Developer",
+  location: "Colombia 🇨🇴",
+  languages: ["JavaScript", "TypeScript", "Ruby"],
+  
+  frontend: [
+    "React",
+    "Next.js",
+    "Gatsby",
+    "HTML",
+    "CSS"
+  ],
 
-I'm always learning and expanding my skillset. Here are some of the things I'm currently focusing on:
+  backend: [
+    "Node.js",
+    "Express",
+    "Ruby on Rails"
+  ],
 
-- Ruby on Rails
-- Node JS
+  databases: [
+    "MongoDB",
+    "PostgreSQL"
+  ],
 
-## 📈 GitHub Stats
+  tools: [
+    "Git",
+    "GitHub",
+    "Figma",
+    "Webpack",
+    "Jest",
+    "VS Code"
+  ],
 
-[![Edwin Nv's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinnv&show_icons=true&theme=radical)](https://github.com/edwinnv)
+  currentFocus: [
+    "Scalable architectures",
+    "Performance optimization",
+    "Clean code",
+    "Modern web experiences"
+  ],
 
-## 📫 Contact Me
+  lifePhilosophy: "Code. Learn. Improve. Repeat."
+}
+```
 
-Feel free to reach out to me through the following channels:
+---
 
-- Email: edwinjunior2000@outlook.com
-- LinkedIn: https://www.linkedin.com/in/edwinnv/
+# ⚡ Tech Stack
 
-## 🚀 Let's build something amazing together!
+## 🎨 Frontend
 
-Thanks for checking out my profile! Let's connect and create something great. 🤝
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,gatsby,tailwind" />
+</p>
+
+---
+
+## 🛠 Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,rails,mongodb,postgres,prisma" />
+</p>
+
+---
+
+## ⚙️ Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,jest,docker,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwinnv&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edwinnv&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edwinnv&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edwinnv&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edwinnv&theme=tokyonight&utcOffset=-5" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=edwinnv&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinnv&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=edwinnv&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Node.js Architecture
+* Ruby on Rails Ecosystem
+* Scalable API Design
+* Docker & DevOps
+* Clean Architecture
+* System Design
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ Full Stack Applications
+
+Modern and scalable web applications built with React, Next.js and Node.js.
+
+## 🎨 UI/UX Interfaces
+
+Responsive interfaces focused on performance, accessibility and clean design.
+
+## 🔗 Backend Systems
+
+REST APIs, authentication systems and scalable backend architectures.
+
+---
+
+# 🧠 Developer Mindset
+
+```bash id="bq91la"
+✔ Clean Code
+✔ Performance First
+✔ Scalable Systems
+✔ UI/UX Focus
+✔ Continuous Learning
+✔ Problem Solver
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/edwinnv/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:edwinjunior2000@outlook.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎵 Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+```md id="s8dj2n"
+![snake gif](https://github.com/edwinnv/edwinnv/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# ⚙️ Snake Animation Workflow
+
+Create this file:
+
+```bash id="lx7v1p"
+.github/workflows/snake.yml
+```
+
+Then add:
+
+```yml id="b9r2wc"
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: edwinnv
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile
+
+### Let's build something amazing together.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
